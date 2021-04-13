@@ -70,7 +70,7 @@ If the code helps you in your research, please also cite:
 @misc{bcfnet,
   author =       {Zi-Yuan Hu, Jin Huang, Zhi-Hong Deng, Chang-Dong Wang,  Ling Huang,  Jian-Huang Lai, Philip S. Yu},
   title =        {BCFNet},
-  howpublished = {\url{https://github.com/huangj323/BCFNet}},
+  howpublished = {\url{https://github.com/beilineili/BCFNet}},
   year =         {2021}
 }
 ```
